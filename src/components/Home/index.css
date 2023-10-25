@@ -1,0 +1,20 @@
+.home-container{
+    background-image: url("https://images.pexels.com/photos/50675/banquet-wedding-society-deco-50675.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    height: 90vh;
+    width: 100vw;
+    background-size: cover;
+    margin-top: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.home-heading{
+    margin-top: 0px;
+    color:#f00a1d;
+    font-size: 56px;
+    text-shadow: #ffffff;
+    text-decoration-color: aqua;
+    font-family: italic;
+    padding-top: 50px;
+    text-shadow: 2px 2px 10px greenyellow;
+}

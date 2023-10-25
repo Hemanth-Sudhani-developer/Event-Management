@@ -1,0 +1,32 @@
+.header-container{
+    height: 10vh;
+    width: 100vw;
+    background-color: #868a8a;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header-logo-img{
+    height: 60px;
+    width: 110px;
+    margin-left: 50px;
+    border-radius: 6px;
+}
+.nav-menu{
+    list-style: none;
+    display: flex;
+    margin-right: 50px;
+}
+.nav-link{
+    color:#ffffff;
+    text-decoration: none;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-weight: 500;
+}
+
+
+.li::after{
+    color: red;
+}
